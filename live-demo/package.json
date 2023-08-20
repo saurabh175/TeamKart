@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "python application.py"
+    },
+    "dependencies": {
+        "axios": "^1.4.0",
+        "heroku": "^7.69.1"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "Won Top 10 at Calhacks AI LLM Hackathon 2023 out of 1600 applications\r View: www.wingsearch.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.3.5"
+  },
+  "devDependencies": {}
+}

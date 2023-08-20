@@ -1,0 +1,1803 @@
+{
+    "body": [
+        {
+            "Title": "Cotton T-Shirt",
+            "Verbose_Description": "Our first product and still the most popular, the Cotton T-Shirt is the cornerstone of any man’s wardrobe. Made from the world’s highest quality cotton for extra softness and durability. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-1",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/White_O_Crew_Regular_NoPocket-557cde63-ba76-4083-8776-21ab4e17814c.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-2",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/Black_O_Crew_Regular_NoPocket-cdfc80d2-539f-496b-8cc5-1f6d5d03390c.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-3",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/DeepBlue_O_Crew_Regular_NoPocket-f84fbbf8-00b5-486e-8fb6-877e99352c70.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-25",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/LightGrey_O_Crew_Regular_NoPocket-9d97feb5-1310-448a-b1dd-00640cadb5c3.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-27",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/DarkGrey_O_Crew_Regular_NoPocket-2eb9dcf4-1f8f-4154-b747-68e2acb5d87b.jpg"
+                },
+                "Cold Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-412",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/ColdBlue_O_Crew_Regular_NoPocket-6b6d9cf8-918e-4b99-9cb1-c5a4cc756e98.jpg"
+                },
+                "June Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-514",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/JuneBlue_O_Crew_Regular_NoPocket-71975051-20d1-4cbb-b453-9ecd6f449c63.jpg"
+                },
+                "Oat": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-636",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/Oat_O_Crew_Regular_NoPocket-ce1f69a5-4bce-4fd2-9384-fe5ee9913934.jpg"
+                },
+                "Eventide": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-657",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/Eventide_O_Crew_Regular_NoPocket-b0923ab8-2235-4366-a7c3-4c49245b3bda.jpg"
+                },
+                "Cider": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-659",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/Cider_O_Crew_Regular_NoPocket-c2015331-10c9-4b30-b13d-d0245a004c24.jpg"
+                },
+                "Pale Lavender": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-665",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/PaleLavender_O_Crew_Regular_NoPocket-973052f3-e26e-471b-a767-a714386433f2.jpg"
+                },
+                "Masala": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-720",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/Masala_O_Crew_Regular_NoPocket-c488c756-73f4-4380-b6d1-4878a0f34536.jpg"
+                },
+                "Ocean Stripes": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-746",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/OceanStripes_O_Crew_Regular_NoPocket-57c4e45e-3f9a-4525-83a4-3d27c94413c8.jpg"
+                },
+                "Beach Stripes": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt/1-1-3-9-747",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/BeachStripes_O_Crew_Regular_NoPocket-a6068051-ee83-4b3f-977d-def3b9023ed2.jpg"
+                }
+            },
+            "Sleeves": "Regular",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "Short Sleeve T-Shirt, White, 150 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "Cotton T-Shirt / Long-Sleeve",
+            "Verbose_Description": "The iconic Cotton T-Shirt but with a little extra coverage - great for layering but also well-suited to be worn on its own. Made from the world’s highest quality cotton for extra softness and durability. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-1",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/White_O_Crew_NoPocket-301a075b-043c-4457-981d-1a0d8c368482.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-2",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/Black_O_Crew_NoPocket-19008248-4cdb-4794-a2c5-17513e4a873a.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-3",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/DeepBlue_O_Crew_NoPocket-704071ae-4244-4a1b-b838-040eabc9fa0a.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-25",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/LightGrey_O_Crew_NoPocket-5b3520b0-3ba2-4755-8145-f41fb7695832.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-27",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/DarkGrey_O_Crew_NoPocket-4a67d68f-bbb8-4279-bc8e-5d98c7cfaef6.jpg"
+                },
+                "Cold Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-412",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/ColdBlue_O_Crew_NoPocket-3e668a5f-1a39-467b-9a41-a71c1bc96b15.jpg"
+                },
+                "June Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-514",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/JuneBlue_O_Crew_NoPocket-f3ab0344-b527-4b76-9e63-092cb7e39fa6.jpg"
+                },
+                "Oat": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-636",
+                    "material": "150 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/Oat_O_Crew_NoPocket-e5a7ca3e-94ea-4dc5-b5f7-aac8ffb5a919.jpg"
+                },
+                "Eventide": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-657",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/Eventide_O_Crew_NoPocket-ff5bf782-2b95-4332-af7b-30386e84d533.jpg"
+                },
+                "Cider": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-659",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/Cider_O_Crew_NoPocket-f2ab2b9a-69cb-4c0c-a667-2835f79df5d6.jpg"
+                },
+                "Pale Lavender": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-665",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/PaleLavender_O_Crew_NoPocket-cef90eab-28c9-4900-98db-e4292ee53506.jpg"
+                },
+                "Masala": {
+                    "link": "https://www.sonofatailor.com/product/cotton-t-shirt-long-sleeve/2-3-9-10-720",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/Masala_O_Crew_NoPocket-a113bfbe-849e-47ac-babc-8598eff9bea6.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Long Sleeve T-Shirt, White, 150 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "Wool T-Shirt",
+            "Verbose_Description": "Our Wool T-Shirt has a subtle texture and sheen that bring life to the color and add an elegant note. Merino wool is naturally thermoregulating, keeping you cool when it’s hot and warm when it’s cold - without being itchy. Made to Order in Portugal.",
+            "Colors Available": {
+                "Asphalt": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt/3-11-19-34",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/new/Asphalt_V_Band_Regular-c2d719cc-50fa-4b4c-a224-d19e61940cc7.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt/3-11-19-63",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/new/Black_V_Band_Regular-c478d495-73d3-4a72-8a56-346c98a033a6.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt/3-11-19-64",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/new/Navy_V_Band_Regular-9d910778-d124-4301-9ce8-2d74a25fd094.jpg"
+                },
+                "Bronze": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt/3-11-19-472",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/new/Bronze_V_Band_Regular-75563762-716b-4dac-bea0-88f11f1c8f78.jpg"
+                },
+                "Blue Lagoon": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt/3-11-19-650",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/new/BlueLagoon_V_Band_Regular-be7bd235-29ea-44c0-870b-93b64470bcee.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Wool Short Sleeve T-Shirt, Asphalt, 135 g/m2 100% Superfine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "V-Neck Band"
+        },
+        {
+            "Title": "Pique Polo Shirt",
+            "Verbose_Description": "There are few iconic pieces more effortlessly elegant than the classic Pique Polo Shirt. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made from the world’s highest quality cotton for a luxurious feel and drape. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/Navy_P_PoloClassic_ClassicPolo_NoPocket-cdaca0b7-570d-42f7-917a-af8f8c762eed.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/White_P_PoloClassic_ClassicPolo_NoPocket-3a067cd3-6fe2-4de6-8a0a-c607af3dd592.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/LightGrey_P_PoloClassic_ClassicPolo_NoPocket-8718e480-b984-40e8-9b67-936db6071460.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/DarkGrey_P_PoloClassic_ClassicPolo_NoPocket-561cdec1-0537-45d5-8b64-66ae74a8dfeb.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/Black_P_PoloClassic_ClassicPolo_NoPocket-25d89376-27c1-4b3d-9602-5a24cb320853.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/Praline_P_PoloClassic_ClassicPolo_NoPocket-03e845ff-7886-438e-be56-f10076b6f4ea.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/BlueBell_P_PoloClassic_ClassicPolo_NoPocket-82b42c46-9f65-49ee-a93f-6cb6879fb0a8.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/Petrolblue_P_PoloClassic_ClassicPolo_NoPocket-dac7c018-31df-42c2-845a-518c28b99b94.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/LaurelGreen_P_PoloClassic_ClassicPolo_NoPocket-fff41b31-53ae-4f0a-83b9-05310118e24c.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt/4-17-18-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/pique/BlueHazePique_P_PoloClassic_ClassicPolo_NoPocket-5f606851-26f8-4cba-8e01-66f02a0fc577.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 698,
+                "USD": 108,
+                "CHF": 95,
+                "GBP": 87,
+                "AUD": 155,
+                "SED": 1085,
+                "SGD": 139,
+                "EUR": 95,
+                "CAD": 139
+            },
+            "Description": "Pique Short Sleeve Polo, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "Classic Polo"
+        },
+        {
+            "Title": "Pique Polo Shirt / Long-Sleeve",
+            "Verbose_Description": "There are few iconic pieces more effortlessly elegant than the classic Pique Polo Shirt - here with long sleeves for a little extra coverage. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made from the world’s highest quality cotton for a luxurious feel and drape. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/Navy_P_PoloClassic_PoloLongSleeve-ebea96bb-367c-4d0c-b304-69b8f506ae0d.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/White_P_PoloClassic_PoloLongSleeve-8bfaef7a-36cd-4eb9-a4bf-117762dd1278.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/LightGrey_P_PoloClassic_PoloLongSleeve-75d961cb-115a-4686-87fd-029e0becb7b7.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/DarkGrey_P_PoloClassic_PoloLongSleeve-d27d887c-2dce-4dcd-af2a-8ffc9f69b729.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/Black_P_PoloClassic_PoloLongSleeve-ac4379e7-aef1-4cf5-8a89-3f8a3206b31b.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/Praline_P_PoloClassic_PoloLongSleeve-c903c51b-db13-4c69-bd66-a3b948964d2c.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/BlueBell_P_PoloClassic_PoloLongSleeve-6e8242ec-a394-4339-8f1f-fead175a63a0.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/Petrolblue_P_PoloClassic_PoloLongSleeve-35db55f0-2e22-47ab-918b-8b00079fb7b5.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/LaurelGreen_P_PoloClassic_PoloLongSleeve-0bdbd3dd-a1df-44fa-af01-e7193b7d71e1.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-polo-shirt-long-sleeve/5-18-21-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/polo/longsleeve/pique/BlueHaze_P_PoloClassic_PoloLongSleeve-d299d9d5-37c6-4315-b56d-147ce7347762.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 878,
+                "USD": 128,
+                "CHF": 115,
+                "GBP": 105,
+                "AUD": 195,
+                "SED": 1355,
+                "SGD": 174,
+                "EUR": 119,
+                "CAD": 175
+            },
+            "Description": "Long Sleeve Pique Polo, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "Classic Polo"
+        },
+        {
+            "Title": "Pique T-Shirt",
+            "Verbose_Description": "Traditionally used for Polo Shirts, the pique fabric adds a refined twist to the classic T-Shirt. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/Navy_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-f54043da-e0ed-492a-8d22-1799f3f8691e.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/White_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-f02727f7-6db4-4474-8e85-056d2f949aac.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/LightGrey_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-9aafb233-640f-4048-bae2-c38f10b2234b.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/DarkGrey_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-fd9c9ae3-65dd-47f5-9548-81b57be8923c.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/Black_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-ebeafa1c-5aaa-464a-a1a4-b9599579ec0d.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/Praline_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-9693536a-e84f-4b7e-a0e4-43283af2081a.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/BlueBell_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-3758056c-77c8-408b-b74d-b31411d82891.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/Petrolblue_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-fafe2904-5129-4672-915b-a1e15fcf556e.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/LaurelGreen_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-fbffa1ba-a7a0-4a18-a32b-1982d547d8e8.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-t-shirt/6-22-23-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/piquetshirt/BlueHazePique_O_PiquetT-Shirt_PiquetT-Shirt_NoPocket-06ea3916-7ac6-4788-bb2b-f46a078d56f8.jpg"
+                }
+            },
+            "Sleeves": "Short",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Pique Short Sleeve T-Shirt, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "Cotton Sweatshirt",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-334",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/Black_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-c1328172-a53e-40c1-a841-c9da76442ed9.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-335",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/DarkGrey_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-eb83d89d-fc4a-4cdb-8bd0-9dc69f2ffbd4.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-336",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/LightGrey_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-95e45bb3-8066-43e0-8ae3-e558451b933e.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-337",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/DeepBlue_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-63ea1779-1b7c-4ddd-99f0-10114258a57f.jpg"
+                },
+                "Mauve": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-608",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/Mauve_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-0b54c80f-5677-42bb-acd7-a44b728cf527.jpg"
+                },
+                "Jelly Bean": {
+                    "link": "https://www.sonofatailor.com/product/cotton-sweatshirt/8-26-27-734",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/sweatshirt/JellyBean_Sweatshirt_Neck_Sweatshirt_Long_Sleeve-f776c664-f184-4c2b-9f8a-d2b0fe340732.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 825,
+                "USD": 125,
+                "CHF": 109,
+                "GBP": 98,
+                "AUD": 185,
+                "SED": 1315,
+                "SGD": 165,
+                "EUR": 115,
+                "CAD": 169
+            },
+            "Description": "Long Sleeve Sweatshirt, Black, 100% Supima Cotton Fleece",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "Light Summer T-Shirt",
+            "Verbose_Description": "Our lightest T-Shirt is made for sunny days: Thanks to the properties of TENCEL™ Lyocell, it has a light feel, is slightly cool to the touch, and naturally unfavorable for bacterial growth. TENCEL™ Lyocell is a cellulosic fiber, sourced from certified and controlled forests. Made to Order in Portugal.",
+            "Colors Available": {
+                "Sunrise Blue": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-474",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/SunriseBlue_O_Crew_Regular-ab06593a-badb-4390-a9ed-e7e67920edfd.jpg"
+                },
+                "YK Blue": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-633",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/YKBlue_O_Crew_Regular-f7066cd6-336b-4f3d-a262-9106a9b1bd15.jpg"
+                },
+                "Chestnut": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-642",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/Chestnut_O_Crew_Regular-65b00bc6-cac4-4590-ba57-bfff3f9dee4c.jpg"
+                },
+                "Clearly Aqua": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-652",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/ClearlyAqua_O_Crew_Regular-b4364b20-97f2-47dc-ba0b-86b3f30ac6a7.jpg"
+                },
+                "Purple Sage": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-653",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/PurpleSage_O_Crew_Regular-a20986c7-bc35-4861-b9f0-12d8e2f7b222.jpg"
+                },
+                "Glacier Gray": {
+                    "link": "https://www.sonofatailor.com/product/light-summer-t-shirt/14-46-47-654",
+                    "material": "130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/summertee/GlacierGray_O_Crew_Regular-fc531fbe-dbb5-4283-bb2d-f0bcdd321a99.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "Light Summer Tee, Sunrise Blue, 130 g/m2 67% Micro Tencel\u2122 33% Cotton",
+            "Availability": "out of stock",
+            "Neck Shape": "T-Shirt O-Neck Crew"
+        },
+        {
+            "Title": "Cotton Hi-Neck T-Shirt",
+            "Verbose_Description": "The accentuated neck and side slits add a contemporary twist to the classic T-Shirt. Made from the world’s highest quality cotton for extra softness and durability. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-12",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/White_Regular-3a78da1d-a766-4f2a-a956-d94bbbfa9bb3.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-13",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/Black_Regular-2c79d4a3-677c-48e6-b667-ae60e4e61574.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-14",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/DeepBlue_Regular-64c7c65d-0220-44c6-84f3-0d2258186743.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-26",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/LightGrey_Regular-4056d743-4ae7-4e7f-a349-7de2aabc38a2.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-28",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/DarkGrey_Regular-1041d3d6-0ca5-40e4-98d3-0807682d2abf.jpg"
+                },
+                "Cold Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-413",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/ColdBlue_Regular-e43b85e8-267b-4391-8144-ca87f6b8b3ee.jpg"
+                },
+                "June Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-515",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/JuneBlue_Regular-064fd21c-71da-445b-bcf6-eabf96a1cff3.jpg"
+                },
+                "Oat": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-637",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/Oat_Regular-3cfd1318-684f-441d-bf0b-1e3534dc1e09.jpg"
+                },
+                "Eventide": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-657",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/Eventide_Regular-86de2ab3-484c-4dd1-b005-1c7a98fc65cd.jpg"
+                },
+                "Cider": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-659",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/Cider_Regular-4d70ec91-b44b-4c6f-8678-8577d1ea2650.jpg"
+                },
+                "Pale Lavender": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-665",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/PaleLavender_Regular-ac133052-5124-4988-a6d1-a326a4605f74.jpg"
+                },
+                "Masala": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt/15-48-49-720",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/highneck/Masala_Regular-937551e6-32fb-4c5f-bc01-d1b50109b728.jpg"
+                }
+            },
+            "Sleeves": "Short Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "Short Sleeve High Neck T-Shirt, White, 200 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "Hi-Neck"
+        },
+        {
+            "Title": "Wool T-Shirt / Long-Sleeve",
+            "Verbose_Description": "Everything we love about the Wool T-Shirt but with a little extra coverage. The subtle texture and sheen bring life to the color and add an elegant note. Merino wool is also naturally thermoregulating, keeping you cool when it’s hot and warm when it’s cold - without being itchy. Made to Order in Portugal.",
+            "Colors Available": {
+                "Asphalt": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt-long-sleeve/17-59-62-34",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/Asphalt_Turtle-bec41bf9-70eb-416a-9e11-865ef9300684.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt-long-sleeve/17-59-62-63",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/Black_Turtle-f60dd98b-7081-4aac-9338-ac6c7173c543.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt-long-sleeve/17-59-62-64",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/Navy_Turtle-5d2c5b9c-4efb-4a47-b4d1-85562a3536b0.jpg"
+                },
+                "Bronze": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt-long-sleeve/17-59-62-472",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/Bronze_Turtle-3a3e1302-18d9-4bc1-bea0-14ce1ee0019f.jpg"
+                },
+                "Blue Lagoon": {
+                    "link": "https://www.sonofatailor.com/product/wool-t-shirt-long-sleeve/17-59-62-650",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/BlueLagoon_Turtle-1cb84aaa-c13c-41ea-b09b-06ddc99b404f.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 698,
+                "USD": 108,
+                "CHF": 95,
+                "GBP": 87,
+                "AUD": 155,
+                "SED": 1085,
+                "SGD": 139,
+                "EUR": 95,
+                "CAD": 139
+            },
+            "Description": "Long Sleeve Wool T-Shirt, Asphalt, 135 g/m2 100% Superfine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Roll Neck"
+        },
+        {
+            "Title": "Pullover / Zero Waste",
+            "Verbose_Description": "A wardrobe staple with thoughtful details like enhanced cuffs and neckline. Made from the extrafine, long fibers of Merino wool, it provides warmth without being bulky and feels soft on the skin. The first 3D-knitted, made-to-order Pullover in the world causes less than 1% production waste compared to an industry average of 20% for each clothing item produced. Made to Order in Italy.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-187",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Black_O_Neck-39986748-dfb2-4da9-b57d-9ab56da57e58.jpg"
+                },
+                "Light Grey Melange": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-188",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/LightGreyMelange_O_Neck-008d77ac-2c56-4ac8-8278-550439e8d23e.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-189",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Navy_O_Neck-27517db6-7ac8-4d8a-8d8a-9e2abad441d0.jpg"
+                },
+                "Forest Green": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-190",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/ForestGreen_O_Neck-2e719fe8-0bc7-4155-a2b3-6d128be614d6.jpg"
+                },
+                "Camel": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-477",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Camel_O_Neck-eda820db-edfe-411b-8f9a-5ab914ffe073.jpg"
+                },
+                "Brass": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-504",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Brass_O_Neck-1b380d94-ec17-479d-adc5-dcee8f851996.jpg"
+                },
+                "Midnight Blue": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-674",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/MidnightBlue_O_Neck-133c9445-6919-4ad4-8706-d63a761d41a8.jpg"
+                },
+                "Desert Green": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-675",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/DesertGreen_O_Neck-7040edf4-38da-43b8-acf2-bfde9b301ca5.jpg"
+                },
+                "Dune": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-715",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Dune_O_Neck-fef7e67e-8173-45a6-bd79-6fc9a1604fca.jpg"
+                },
+                "Elm": {
+                    "link": "https://www.sonofatailor.com/product/pullover-zero-waste/18-64-84-95-718",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Elmknitwear_O_Neck-19fe2b97-2fa1-40b7-baab-521ccd576a00.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1187,
+                "USD": 175,
+                "CHF": 158,
+                "GBP": 139,
+                "AUD": 265,
+                "SED": 1795,
+                "SGD": 237,
+                "EUR": 159,
+                "CAD": 239
+            },
+            "Description": "Zero Waste Pullover, Black, 2/48 1 ply 100% Extra Fine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck"
+        },
+        {
+            "Title": "Pique Henley Shirt",
+            "Verbose_Description": "Essentially a collarless Pique Polo Shirt but with a more casual look and feel that is entirely its own, the Pique Henley Shirt goes back to a British rowing team. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made from the world’s highest quality cotton for a luxurious feel and drape. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/Navy_ClassicPolo_NoPocket-5825ecb1-8508-4440-aea3-e5904f062c69.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/White_ClassicPolo_NoPocket-dfa2dfa5-df4a-4c27-8e60-6bb529879bfc.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/LightGrey_ClassicPolo_NoPocket-65f206c8-f2ee-472e-8824-5db1407e0216.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/DarkGrey_ClassicPolo_NoPocket-dbfd44b5-4458-46c4-a366-5a45377c9224.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/Black_ClassicPolo_NoPocket-39eb5129-e898-480b-adca-6cb21114343f.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/Praline_ClassicPolo_NoPocket-98688f08-1906-4844-af0e-21af0d728700.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/BlueBell_ClassicPolo_NoPocket-6f0f4367-9931-492a-a706-11a998fbfa97.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/Petrolblue_ClassicPolo_NoPocket-1da8c086-0d56-460a-9c4c-249cd126c125.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/LaurelGreen_ClassicPolo_NoPocket-1a6ad601-baf9-4b45-854e-409e2968388f.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt/24-17-97-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/shortsleeve/pique/BlueHazePique_ClassicPolo_NoPocket-9151c417-92e2-43a7-bb32-73f2679dec98.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Pique Henley Short Sleeve, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "Henley"
+        },
+        {
+            "Title": "Wool Hi-Neck T-Shirt",
+            "Verbose_Description": "The accentuated neck and side slits give a contemporary twist to the classic T-Shirt. The Merino wool adds a subtle texture and sheen that bring the color to life. Thanks to the thermoregulating properties of wool, this T-Shirt keeps you cool when it’s hot and warm when it’s cold - without being itchy. Made to Order in Portugal.",
+            "Colors Available": {
+                "Asphalt": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt/26-100-101-34",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/highneck/Asphalt_Regular-dc021145-314a-40f1-aa0a-55064e7147ca.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt/26-100-101-63",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/highneck/Black_Regular-126ee318-85e5-4ad7-8d57-eccfc80b3feb.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt/26-100-101-64",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/highneck/Navy_Regular-6865cfb4-7151-43b9-a6bc-4b0705e18db2.jpg"
+                },
+                "Bronze": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt/26-100-101-472",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/highneck/Bronze_Regular-fd8199c1-ff9d-4eef-ae25-186cc22621a8.jpg"
+                },
+                "Blue Lagoon": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt/26-100-101-650",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/wool/highneck/BlueLagoon_Regular-12689f3d-e251-450e-adc5-56930b703f30.jpg"
+                }
+            },
+            "Sleeves": "Short Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Short Sleeve High Neck Wool T-Shirt, Asphalt, 135 g/m2 100% Superfine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Hi-Neck"
+        },
+        {
+            "Title": "Pique Henley Shirt / Long-Sleeve",
+            "Verbose_Description": "Essentially a collarless Pique Polo but with a more casual look and feel that is entirely its own, the Pique Henley goes back to a British rowing team. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made from the world’s highest quality cotton for a luxurious feel and drape. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/Navy-6ce77040-62a8-4db6-bcea-bd6e642fa0b3.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/White-00d59eec-c042-4be3-b1e1-e7850be20fd8.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/LightGrey-c4e1148c-9a24-4405-af6b-df3dd4f019e9.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/DarkGrey-684925fe-b76c-451c-bf0f-f9db97ba0f20.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/Black-d8e58585-8eba-4bdc-8745-62e602d86b6a.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/Praline-cfbfa8eb-5e19-4074-a971-7da9a593c60a.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/BlueBell-f9bb087e-986d-4e3d-aa7a-2bb62a60e44a.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/Petrolblue-2b50f210-05d9-4032-a589-184b52ee1280.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/LaurelGreen-597bfca7-388e-40ad-8a3c-94a48521e9e6.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-henley-shirt-long-sleeve/31-97-118-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/henley/longsleeve/BlueHazePique-731babe3-095d-40d6-88f7-0cb2c4cbfdaa.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 768,
+                "USD": 118,
+                "CHF": 105,
+                "GBP": 94,
+                "AUD": 175,
+                "SED": 1168,
+                "SGD": 155,
+                "EUR": 105,
+                "CAD": 155
+            },
+            "Description": "Pique Henley Long Sleeve, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "Henley"
+        },
+        {
+            "Title": "Tencel T-Shirt",
+            "Verbose_Description": "The silhouette of the classic T-Shirt with a subtle surface luster that accentuates the color. TENCEL™ Lyocell offers silklike softness that is slightly cool to the touch and is naturally unfavorable for bacterial growth, making it an ideal choice on hot days. TENCEL™ Lyocell is a cellulosic fiber, sourced from certified and controlled forests. Made to Order in Portugal.",
+            "Colors Available": {
+                "Ballad Blue": {
+                    "link": "https://www.sonofatailor.com/product/tencel-t-shirt/33-46-47-751",
+                    "material": "170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/tencel/BalladBlue_O_Crew_Regular-e4575c22-3bfa-4c80-ae8a-951b02fe7f48.jpg"
+                },
+                "Tigers Eye": {
+                    "link": "https://www.sonofatailor.com/product/tencel-t-shirt/33-46-47-752",
+                    "material": "170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/tencel/TigersEye_O_Crew_Regular-9ea45989-4799-4ed9-b55b-8fb463d6cf08.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/tencel-t-shirt/33-46-47-753",
+                    "material": "170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/tencel/Black_O_Crew_Regular-6a90cad3-7e80-4bac-88a4-1a0804fb1e0f.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/tencel-t-shirt/33-46-47-754",
+                    "material": "170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/tencel/Navy_O_Crew_Regular-ba553359-bd09-4ba8-968d-5960437b00e5.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/tencel-t-shirt/33-46-47-755",
+                    "material": "170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/tencel/DarkGrey_O_Crew_Regular-597fa0a1-6465-4b28-a0cf-d5d47bd41db8.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Tencel T-Shirt, Ballad Blue, 170 g/m2 67% Micro Tencel\u2122 33% Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "T-Shirt O-Neck Crew"
+        },
+        {
+            "Title": "Hi-Neck Pullover / Zero Waste",
+            "Verbose_Description": "The accentuated neckline adds a contemporary twist to the classic Pullover. Made from the extrafine, long fibers of Merino wool, it provides warmth without being bulky and feels soft on the skin. The first 3D-knitted, made-to-order Pullover in the world causes less than 1% production waste compared to an industry average of 20% for each clothing item produced. Made to Order in Italy.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-187",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Black_Hi_neck-2a02e0f3-c6b7-4dc2-b664-9cf63c704546.jpg"
+                },
+                "Light Grey Melange": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-188",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/LightGreyMelange_Hi_neck-5a232b15-c0db-4747-ade9-a370f7542091.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-189",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Navy_Hi_neck-b3547e33-d80b-47dd-b000-af954a4c183e.jpg"
+                },
+                "Forest Green": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-190",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/ForestGreen_Hi_neck-69b17f37-4031-4f43-8847-068aed60c3b3.jpg"
+                },
+                "Camel": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-477",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Camel_Hi_neck-d1ad5c98-adec-49f7-aa64-04a474d53863.jpg"
+                },
+                "Brass": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-504",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Brass_Hi_neck-91b0dc0a-0997-482f-b171-a2838423c96b.jpg"
+                },
+                "Midnight Blue": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-674",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/MidnightBlue_Hi_neck-8a9b3d51-c618-49a0-994f-f1d36314c12f.jpg"
+                },
+                "Desert Green": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-675",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/DesertGreen_Hi_neck-c50ec67a-d76f-48e5-9457-93e1e0c099ec.jpg"
+                },
+                "Dune": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-715",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Dune_Hi_neck-8a9b83c9-dd50-4567-8979-b07c4e8f9af5.jpg"
+                },
+                "Elm": {
+                    "link": "https://www.sonofatailor.com/product/hi-neck-pullover-zero-waste/34-84-95-119-718",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Elmknitwear_Hi_neck-802d1174-8ba8-420b-b79e-23960b189406.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1187,
+                "USD": 175,
+                "CHF": 158,
+                "GBP": 139,
+                "AUD": 265,
+                "SED": 1795,
+                "SGD": 237,
+                "EUR": 159,
+                "CAD": 239
+            },
+            "Description": "Zero Waste Hi-Neck, Black, 2/48 1 ply 100% Extra Fine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Hi-Neck"
+        },
+        {
+            "Title": "Turtle-Neck Pullover / Zero Waste",
+            "Verbose_Description": "The classic double-folded neckline provides extra coverage and a distinct look that's sophisticated yet laid back. Made from the extrafine, long fibers of Merino wool, the Turtle-Neck Pullover provides warmth without being bulky and feels soft on the skin. The first 3D-knitted, made-to-order Pullover in the world causes less than 1% production waste compared to an industry average of 20% for each clothing item produced. Made to Order in Italy.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-187",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Black_Turtle_neck-e58b405f-dd27-4642-815c-fbf8bdaaf205.jpg"
+                },
+                "Light Grey Melange": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-188",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/LightGreyMelange_Turtle_neck-43232db0-476f-45e6-b0df-ec753d38bc16.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-189",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Navy_Turtle_neck-2772151c-637f-4bde-b42b-9b4b0fd1896c.jpg"
+                },
+                "Forest Green": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-190",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/ForestGreen_Turtle_neck-15bc8b4b-3b65-43d5-b692-07c0225b1319.jpg"
+                },
+                "Camel": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-477",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Camel_Turtle_neck-d42c0c3a-c89b-4b25-889c-675f8f18c139.jpg"
+                },
+                "Brass": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-504",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Brass_Turtle_neck-a789393b-3bfa-472f-9b8d-22686a992e8b.jpg"
+                },
+                "Midnight Blue": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-674",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/MidnightBlue_Turtle_neck-462ec21a-c71b-4b6c-9037-07923b683a4f.jpg"
+                },
+                "Desert Green": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-675",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/DesertGreen_Turtle_neck-81b5d659-9298-47bc-b5d3-f9ab0fa3c4b8.jpg"
+                },
+                "Dune": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-715",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Dune_Turtle_neck-e35b86f8-1419-4983-8cbe-7a3ad03c7361.jpg"
+                },
+                "Elm": {
+                    "link": "https://www.sonofatailor.com/product/turtle-neck-pullover-zero-waste/35-84-95-120-718",
+                    "material": "2/48 1 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zwp/Elmknitwear_Turtle_neck-1ed906bc-ebef-4da1-83e4-d1daaa4beb75.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1187,
+                "USD": 175,
+                "CHF": 158,
+                "GBP": 139,
+                "AUD": 265,
+                "SED": 1795,
+                "SGD": 237,
+                "EUR": 159,
+                "CAD": 239
+            },
+            "Description": "Zero Waste Turtle-Neck, Black, 2/48 1 ply 100% Extra Fine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Turtle-Neck"
+        },
+        {
+            "Title": "Wool Hi-Neck T-Shirt / Long-Sleeve",
+            "Verbose_Description": "The accentuated neck and side slits give a contemporary twist to the classic T-Shirt, the long sleeves add a little extra coverage. The Merino wool makes for a subtle texture and sheen that bring the color to life. It's also naturally thermoregulating, keeping you cool when it’s hot and warm when it’s cold - without being itchy. Made to Order in Portugal.",
+            "Colors Available": {
+                "Asphalt": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt-long-sleeve/36-100-122-34",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/hineck/Asphalt-45538761-8081-457c-8aee-d881e972dcb2.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt-long-sleeve/36-100-122-63",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/hineck/Black-ace71c9b-9c06-47e2-b7a1-14a139c6e042.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt-long-sleeve/36-100-122-64",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/hineck/Navy-6f2d26b2-1641-400c-8abf-571ab547407e.jpg"
+                },
+                "Bronze": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt-long-sleeve/36-100-122-472",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/hineck/Bronze-4c89b854-8d36-4577-aa0f-27e61a5ac7de.jpg"
+                },
+                "Blue Lagoon": {
+                    "link": "https://www.sonofatailor.com/product/wool-hi-neck-t-shirt-long-sleeve/36-100-122-650",
+                    "material": "135 g/m2 100% Superfine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleevewool/hineck/BlueLagoon-bb4d926b-84e5-4e14-9702-1347297b0416.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 698,
+                "USD": 108,
+                "CHF": 95,
+                "GBP": 87,
+                "AUD": 155,
+                "SED": 1085,
+                "SGD": 139,
+                "EUR": 95,
+                "CAD": 139
+            },
+            "Description": "Long Sleeve High Neck Wool T-Shirt, Asphalt, 135 g/m2 100% Superfine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Hi-Neck"
+        },
+        {
+            "Title": "Cotton Hi-Neck / Long-Sleeve",
+            "Verbose_Description": "The accentuated neck and side slits give a contemporary twist to the classic T-Shirt, the long sleeves add a little extra coverage. Made from the world’s highest quality cotton for extra softness and durability. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-12",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/White-741946be-7a69-4c5d-99de-3ce024ca31dc.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-13",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/Black-e2b32de0-9f6b-4e96-9607-ef162d45b2a1.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-14",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/DeepBlue-9ce2f73f-c211-42f7-a577-855c019e6424.jpg"
+                },
+                "Cold Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-413",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/ColdBlue-9cf220ca-222e-4f67-b847-994270eaad05.jpg"
+                },
+                "June Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-515",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/JuneBlue-80c3423e-1eb3-4b3d-931d-afc830cc649c.jpg"
+                },
+                "Oat": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-637",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/Oat.jpg"
+                },
+                "Eventide": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-657",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/Eventide-0f7595fb-89ae-4074-a847-8486ed043653.jpg"
+                },
+                "Cider": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-659",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/Cider-c1d9f7bb-89bd-4d7d-8166-24e34224fce5.jpg"
+                },
+                "Pale Lavender": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-665",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/PaleLavender-8c3e58ac-bace-4f73-b1ba-f3174f3f741b.jpg"
+                },
+                "Masala": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hi-neck-t-shirt-long-sleeve/37-49-123-720",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/longsleeve/hineck/Masala-bd98f25f-1860-4fa4-84d1-c3764fbf74da.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 549,
+                "USD": 85,
+                "CHF": 75,
+                "GBP": 65,
+                "AUD": 115,
+                "SED": 829,
+                "SGD": 108,
+                "EUR": 74,
+                "CAD": 108
+            },
+            "Description": "Long Sleeve High Neck T-Shirt, White, 200 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "Hi-Neck"
+        },
+        {
+            "Title": "Heavy Wool Sweater / Zero Waste",
+            "Verbose_Description": "The Wool Sweater is slightly on the thicker side and has a characteristic structure. Knitted in one whole piece from extrafine Merino wool, it flexibly follows movement and feels soft on the skin. The first 3D-knitted, made-to-order Pullover in the world causes less than 1% production waste compared to an industry average of 20% for each clothing item produced. Made to Order in Italy.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-383",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/Black-f6ff3ff0-376f-404c-8997-ff99310f846e.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-384",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/Navy-fbdee5a7-0437-4ce4-a2f3-8bdc5a3d537e.jpg"
+                },
+                "Light Grey Melange": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-386",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/LightGreyMelange-036e4b2c-dc4e-4443-b481-81bd7b035d49.jpg"
+                },
+                "Lagoon": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-501",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/Lagoon-ed406e40-6195-4f37-9ada-6432d7505e1d.jpg"
+                },
+                "Brass": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-506",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/Brass-c8efa97e-05a3-4437-846d-736fbc639bf7.jpg"
+                },
+                "Silver Green": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-701",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/SilverGreen-6fd4911b-90e6-4bc9-a5df-e4e4272a5312.jpg"
+                },
+                "Little Blue": {
+                    "link": "https://www.sonofatailor.com/product/heavy-wool-sweater-zero-waste/38-126-127-703",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/knitting/zws/LittleBlue-fcdc5b86-e663-4bd9-ba5a-1b237068117f.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1485,
+                "USD": 225,
+                "CHF": 198,
+                "GBP": 179,
+                "AUD": 335,
+                "SED": 2295,
+                "SGD": 295,
+                "EUR": 198,
+                "CAD": 305
+            },
+            "Description": "Zero Waste Sweater, Black, 2/30 4 ply 100% Extra Fine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": ""
+        },
+        {
+            "Title": "Pique Shirt",
+            "Verbose_Description": "The Pique Shirt combines the comfort and breathability of the Pique Polo with the classic silhouette of a Shirt. The characteristic honeycomb structure doesn’t only make for an interesting look, it also increases breathability as moisture can evaporate more easily. Made from the world’s highest quality cotton for a luxurious feel and drape. Made to Order in Portugal.",
+            "Colors Available": {
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-41",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/Navy-71f61fa3-e490-4205-bc84-e7be30b61e63.jpg"
+                },
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-42",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/White-ccf976ba-be8e-4b96-8604-72795b2e81fa.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-46",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/LightGrey-90fc7446-bddf-410d-8824-118e80fd80ac.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-107",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/DarkGrey-e53dfc3a-fbc0-473b-aa9a-95997df7cae5.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-108",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/Black-ed405aa0-61a1-4821-a731-bff0063e3f68.jpg"
+                },
+                "Praline": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-634",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/Praline-8e9f901c-92a7-4d8d-a48d-1f0731b03491.jpg"
+                },
+                "Blue Bell": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-635",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/BlueBell-e6402c24-2efa-400d-9ec7-60843989e419.jpg"
+                },
+                "Petrol blue": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-661",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/Petrolblue-b7e16d0f-b5e5-4f95-8e91-48f1113da675.jpg"
+                },
+                "Laurel Green": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-662",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/LaurelGreen-92ab7785-d73e-4ca2-a888-f34fe7a36eeb.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/pique-shirt/41-130-131-724",
+                    "material": "100% Supima Cotton. 170 g/m2",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pique/shirt/BlueHazePique-7b456d13-4382-4088-8fce-e3f5908eee49.jpg"
+                }
+            },
+            "Sleeves": "W. Cuff",
+            "Price in Different Currencies": {
+                "DKK": 878,
+                "USD": 128,
+                "CHF": 115,
+                "GBP": 105,
+                "AUD": 195,
+                "SED": 1355,
+                "SGD": 174,
+                "EUR": 119,
+                "CAD": 175
+            },
+            "Description": "Pique Shirt, Navy, 100% Supima Cotton. 170 g/m2",
+            "Availability": "in stock",
+            "Neck Shape": "Colar"
+        },
+        {
+            "Title": "Active T-Shirt",
+            "Verbose_Description": "Our Active T-Shirt is constructed to keep you cool and comfortable while working out - from weight lifting to team sports to running. The combination of Merino wool and TENCEL™ Lyocell makes for extra breathability and a waffle effect on the inside increases air circulation, giving a lighter feel no matter how hard the workout. The Active T-Shirt features reflective details on front and back. Made to Order in Portugal.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt/42-132-133-135-424",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ss/Black_SS_Refl-efe9e7af-d792-4e81-9978-cd1b031753a3.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt/42-132-133-135-425",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ss/Navy_SS_Refl-c29a3b5c-39dc-4cb8-a7a4-7b73b8ca6b7a.jpg"
+                },
+                "Iron": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt/42-132-133-135-426",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ss/Iron_SS_Refl-7b1915fb-39eb-4b70-b269-f73f34e72261.jpg"
+                }
+            },
+            "Sleeves": "O-Neck",
+            "Price in Different Currencies": {
+                "DKK": 659,
+                "USD": 98,
+                "CHF": 88,
+                "GBP": 78,
+                "AUD": 145,
+                "SED": 995,
+                "SGD": 128,
+                "EUR": 89,
+                "CAD": 135
+            },
+            "Description": "Short Sleeve Active T-Shirt, Black, 145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Customize"
+        },
+        {
+            "Title": "Active T-Shirt / Long-Sleeve",
+            "Verbose_Description": "Our Active T-Shirt is constructed to keep you cool and comfortable while working out - from weight lifting to team sports to running. The combination of Merino wool and TENCEL™ Lyocell makes for extra breathability and a waffle effect on the inside increases air circulation, giving a lighter feel no matter how hard the workout. The Active T-Shirt features reflective details on front and back. Made to Order in Portugal.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt-long-sleeve/43-132-134-135-424",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ls/Black_LS_Refl-2c4195d5-c676-473e-bc0b-e4172650c086.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt-long-sleeve/43-132-134-135-425",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ls/Navy_LS_Refl-0d697c6d-84c6-4211-af69-74308cf7abf5.jpg"
+                },
+                "Iron": {
+                    "link": "https://www.sonofatailor.com/product/active-t-shirt-long-sleeve/43-132-134-135-426",
+                    "material": "145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/activewear/ls/Iron_LS_Refl-9e658da2-3645-4e1a-a05f-3b7612ab225a.jpg"
+                }
+            },
+            "Sleeves": "O-Neck",
+            "Price in Different Currencies": {
+                "DKK": 768,
+                "USD": 118,
+                "CHF": 105,
+                "GBP": 94,
+                "AUD": 175,
+                "SED": 1168,
+                "SGD": 155,
+                "EUR": 105,
+                "CAD": 155
+            },
+            "Description": "Long Sleeve Active T-Shirt, Black, 145 g/m2 52% Micro Tencel\u2122 26% Recycled Polyester 22% Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Customize"
+        },
+        {
+            "Title": "Oxford Shirt",
+            "Verbose_Description": "An everyday essential for any occasion: Featuring a classic button-down collar and a back pleat for freedom of movement. Made from 100% cotton in the traditional Oxford cloth, it is thick enough to be worn on its own yet thin enough to slip under a blazer. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-445",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/White-1f9d7e3f-9602-468d-bb6b-d86087d9793f.jpg"
+                },
+                "Barely Green": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-448",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/BarelyGreen-04a47cf7-3c0d-4aba-8125-b0605e31e2f8.jpg"
+                },
+                "Pale Blue": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-449",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/PaleBlueV2-80f708fa-03bb-48d2-a6d4-cb12df518b8f.jpg"
+                },
+                "Sky Blue": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-542",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/SkyBlue-95d82482-1e21-4647-9bf7-6f4fe22f0b02.jpg"
+                },
+                "Oyster": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-620",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/Oyster-83b90e3d-4e61-4acd-aad5-dbac0a5dd81b.jpg"
+                },
+                "Masala": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-725",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/Masala-0bc27ae5-e62a-49ed-9d52-6c66f8deb367.jpg"
+                },
+                "Blue Haze": {
+                    "link": "https://www.sonofatailor.com/product/oxford-shirt/45-139-140-726",
+                    "material": "150 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/oxford/BlueHaze-714f2431-ad9c-48d7-b3b8-000bba9fc1cf.jpg"
+                }
+            },
+            "Sleeves": "Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1088,
+                "USD": 158,
+                "CHF": 145,
+                "GBP": 128,
+                "AUD": 245,
+                "SED": 1695,
+                "SGD": 215,
+                "EUR": 148,
+                "CAD": 218
+            },
+            "Description": "Oxford Shirt, White, 150 g/m2 100% Organic Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "Colar"
+        },
+        {
+            "Title": "Cardigan / Zero Waste",
+            "Verbose_Description": "The Cardigan features the same beautiful texture as our Heavy Wool Sweater. Knitted in one whole piece, it remains wonderfully flexible while providing the warmth and cozy feel of heavier knitwear. The minimal design without pockets makes it the ideal layering piece. As for all our knitwear, we utilize 3D-knitting technology to make the Cardigan, resulting in less than 1% production waste compared to an industry average of 20% for each clothing item produced. Made to Order in Portugal.",
+            "Colors Available": {
+                "Gobi": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-707",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/Gobi-57e9632e-8f02-4861-b36d-5286b97ab75a.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-708",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/Black-acfcd5db-a1b2-474f-bb54-82abaedbc4f5.jpg"
+                },
+                "Light Grey Melange": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-709",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/LightGreyMelange-2861f17d-5165-4cd2-8d07-a703c1d36c3d.jpg"
+                },
+                "Navy": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-710",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/Navy-0d6a4ae7-2ec3-4b2e-8bb2-eda4702f29f6.jpg"
+                },
+                "Dune": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-713",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/Dune-0a514bc0-2447-4daa-a0ca-e35b4ee424b4.jpg"
+                },
+                "Elm": {
+                    "link": "https://www.sonofatailor.com/product/cardigan-zero-waste/46-149-150-717",
+                    "material": "2/30 4 ply 100% Extra Fine Merino Wool",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/cardigan/zero-waste/Elmknitwear-676ba544-ea56-4f15-8d47-d4a076465043.jpg"
+                }
+            },
+            "Sleeves": "Long Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 1485,
+                "USD": 225,
+                "CHF": 198,
+                "GBP": 179,
+                "AUD": 335,
+                "SED": 2295,
+                "SGD": 295,
+                "EUR": 198,
+                "CAD": 305
+            },
+            "Description": "ZWC Cardigan, Gobi, 2/30 4 ply 100% Extra Fine Merino Wool",
+            "Availability": "in stock",
+            "Neck Shape": "Neck"
+        },
+        {
+            "Title": "Tencel Undershirt",
+            "Verbose_Description": "We reengineered the Undershirt to be invisible in color and in touch. The range of shades is designed to match your skin tone so the Undershirt becomes invisible under your Shirt. Thanks to the properties of TENCEL™ Lyocell, the fabric is naturally unfavorable for bacterial growth and feels feather light on the skin, making you feel fresh for longer. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-534",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/White_O_Crew-f6350124-07b5-4910-a4b0-f4589ab0f87f.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-535",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Black_O_Crew-2a8cde9d-b4b8-4dd6-b562-831f0eb63c4c.jpg"
+                },
+                "Shade 1": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-536",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Shade1_O_Crew-ab56f381-8a50-4f37-aac2-e1b7f462d5f6.jpg"
+                },
+                "Shade 2": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-537",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Shade2_O_Crew.jpg"
+                },
+                "Shade 3": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-538",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Shade3_O_Crew-3dee5bdc-2774-456d-a042-d960af248291.jpg"
+                },
+                "Shade 4": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-539",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Shade4_O_Crew.jpg"
+                },
+                "Shade 5": {
+                    "link": "https://www.sonofatailor.com/product/tencel-undershirt/47-141-143-540",
+                    "material": "150 g/m2 100% Tencel\u2122",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/undershirt/Shade5_O_Crew-7300b8aa-f28f-4101-b732-721ce7673361.jpg"
+                }
+            },
+            "Sleeves": "Short Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "Invisible Undershirt, White, 150 g/m2 100% Tencel\u2122",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck"
+        },
+        {
+            "Title": "Cotton Hoodie",
+            "Verbose_Description": "We refined the Cotton Hoodie to be worn from work to weekend. Powder-coated tone-in-tone trimmings and no pocket make for a minimal look. In the sweet spot between medium- and heavy-weight, it is thick enough to be worn on its own yet thin enough for layering. The loopback structure on the inside retains the body temperature without adding extra bulk. Made to Order in Portugal.",
+            "Colors Available": {
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-334",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/Black-71fd76ed-a25a-4336-b359-3d580cd62cfa.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-335",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/DarkGrey-61b6930a-5fb5-4d54-8b16-22c0f5d50d6d.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-336",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/LightGrey-dda888a2-3733-4ccc-b6e3-c03ebdf3570c.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-337",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/DeepBlue-1b7a63f2-9578-45ee-9841-67d49602a64b.jpg"
+                },
+                "Mauve": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-608",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/Mauve-fbd07357-8241-4138-a9e1-d9f89baff2b4.jpg"
+                },
+                "Jelly Bean": {
+                    "link": "https://www.sonofatailor.com/product/cotton-hoodie/48-144-145-734",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/hoodie/JellyBean-92e129ff-3272-437c-afcc-54d881b2325c.jpg"
+                }
+            },
+            "Sleeves": "Long",
+            "Price in Different Currencies": {
+                "DKK": 988,
+                "USD": 148,
+                "CHF": 135,
+                "GBP": 118,
+                "AUD": 225,
+                "SED": 1495,
+                "SGD": 198,
+                "EUR": 135,
+                "CAD": 195
+            },
+            "Description": "Long Sleeve Hoodie, Black, 100% Supima Cotton Fleece",
+            "Availability": "in stock",
+            "Neck Shape": "hoodie-hood"
+        },
+        {
+            "Title": "Cotton Pocket T-Shirt",
+            "Verbose_Description": "Our first product and still the most popular, the Cotton T-Shirt is the cornerstone of any man’s wardrobe. Made from the world’s highest quality cotton for extra softness and durability. Made to Order in Portugal.",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/pocket-t-shirt/49-146-147-148-12",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pocket/cotton/White-4c40b383-ed33-4d29-ae7e-d8d18f4ecea5.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/pocket-t-shirt/49-146-147-148-13",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pocket/cotton/Black-ebacfe57-d652-4e04-b44d-0e98041885bc.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/pocket-t-shirt/49-146-147-148-14",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pocket/cotton/DeepBlue-115a303e-5388-43d4-a23f-ab4a81c40ae3.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/pocket-t-shirt/49-146-147-148-26",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/pocket/cotton/LightGrey-e2e82b4d-fa6b-4edc-9c2a-8819086f711c.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "Pocket T-Shirt, White, 200 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "SON T-Shirt",
+            "Colors Available": {
+                "White": {
+                    "link": "https://www.sonofatailor.com/product/son-t-shirt/51-152-153-12",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/son/t-shirt-3/White-dc3426f8-88e4-4ecf-96f0-3e0e8aa00e7f.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/son-t-shirt/51-152-153-13",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/son/t-shirt-3/Black-40a3283c-5951-4da8-aa4d-c991ac7064fc.jpg"
+                },
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/son-t-shirt/51-152-153-14",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/son/t-shirt-3/DeepBlue-e196b6f6-a4a7-485f-ba1a-215a39ebc121.jpg"
+                },
+                "Wasabi": {
+                    "link": "https://www.sonofatailor.com/product/son-t-shirt/51-152-153-545",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/son/t-shirt-3/Wasabi-da5966f8-b61f-4470-9c22-7d7e3b92476b.jpg"
+                },
+                "Tender Yellow": {
+                    "link": "https://www.sonofatailor.com/product/son-t-shirt/51-152-153-655",
+                    "material": "200 g/m2 100% Supima Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/son/t-shirt-3/TenderYellow-2c8a89b3-85b9-4e24-ac6a-2689db105f2c.jpg"
+                }
+            },
+            "Sleeves": "Classic Short",
+            "Price in Different Currencies": {
+                "DKK": 448,
+                "USD": 64,
+                "CHF": 65,
+                "GBP": 55,
+                "AUD": 99,
+                "SED": 695,
+                "SGD": 88,
+                "EUR": 59,
+                "CAD": 88
+            },
+            "Description": "SON T-Shirt, White, 200 g/m2 100% Supima Cotton",
+            "Availability": "in stock",
+            "Neck Shape": "O-Neck Crew"
+        },
+        {
+            "Title": "Waffle T-Shirt",
+            "Verbose_Description": "The Waffle T-Shirt bridges relaxed and refined in the most comfortable way. The unique waffle texture enhances air circulation, lets it dry fast, and gives it its characteristic 4-way stretch. Featuring small side slits for freedom of movement. Made to Order in Portugal.",
+            "Colors Available": {
+                "Coffee Bean": {
+                    "link": "https://www.sonofatailor.com/product/waffle-t-shirt/54-154-155-743",
+                    "material": "200 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/waffle/CoffeeBean_O_Band-ff9699e9-89bc-4d9d-913a-ded66d9a9857.jpg"
+                },
+                "Celestial": {
+                    "link": "https://www.sonofatailor.com/product/waffle-t-shirt/54-154-155-744",
+                    "material": "200 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/waffle/Celestial_O_Band-24d09bb0-9646-4837-af9d-49f79f275097.jpg"
+                },
+                "Off White": {
+                    "link": "https://www.sonofatailor.com/product/waffle-t-shirt/54-154-155-745",
+                    "material": "200 g/m2 100% Organic Cotton",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/waffle/OffWhite_O_Band-33ce6c49-20a3-4f86-a657-66992e1a54fc.jpg"
+                }
+            },
+            "Sleeves": "Regular",
+            "Price in Different Currencies": {
+                "DKK": 495,
+                "USD": 75,
+                "CHF": 69,
+                "GBP": 59,
+                "AUD": 105,
+                "SED": 749,
+                "SGD": 98,
+                "EUR": 69,
+                "CAD": 98
+            },
+            "Description": "Waffle Short Sleeve T-Shirt, Coffee Bean, 200 g/m2 100% Organic Cotton",
+            "Availability": "out of stock",
+            "Neck Shape": "O-Neck Band"
+        },
+        {
+            "Title": "Half-Zip Sweatshirt",
+            "Verbose_Description": "A re-interpretation of the classic Sweatshirt, the Half-Zip Sweatshirt is the perfect layering piece: the accentuated neck and subtle zipper let you seamlessly transition between a more athletic and casual look. In the sweet spot between medium- and heavy-weight, the Sweatshirt provides warmth without adding too much bulk. Made to Order in Portugal.",
+            "Colors Available": {
+                "Deep Blue": {
+                    "link": "https://www.sonofatailor.com/product/half-zip-sweatshirt/55-157-158-756",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/half-zip-sweatshirt/DeepBlue-48cc2b7b-6366-4c90-b45b-7111d7592338.jpg"
+                },
+                "Black": {
+                    "link": "https://www.sonofatailor.com/product/half-zip-sweatshirt/55-157-158-757",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/half-zip-sweatshirt/Black-d1067261-fd37-4e7e-a40f-68b8c06c97fa.jpg"
+                },
+                "Dark Grey": {
+                    "link": "https://www.sonofatailor.com/product/half-zip-sweatshirt/55-157-158-758",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/half-zip-sweatshirt/DarkGrey-47058ee3-5f14-42c4-851f-21adfa701240.jpg"
+                },
+                "Light Grey": {
+                    "link": "https://www.sonofatailor.com/product/half-zip-sweatshirt/55-157-158-759",
+                    "material": "100% Supima Cotton Fleece",
+                    "image link": "https://img.sonofatailor.com/images/customizer/product/half-zip-sweatshirt/LightGrey-c4e9feec-a9c3-4a4f-ba9a-0660a4031cd7.jpg"
+                }
+            },
+            "Sleeves": "Sleeve",
+            "Price in Different Currencies": {
+                "DKK": 988,
+                "USD": 148,
+                "CHF": 135,
+                "GBP": 118,
+                "AUD": 225,
+                "SED": 1495,
+                "SGD": 198,
+                "EUR": 135,
+                "CAD": 195
+            },
+            "Description": "Half-Zip Sweatshirt, Deep Blue, 100% Supima Cotton Fleece",
+            "Availability": "in stock",
+            "Neck Shape": "Half-Zip Neck"
+        }
+    ]
+}

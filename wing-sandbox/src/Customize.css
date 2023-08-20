@@ -1,0 +1,32 @@
+.customize-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+        margin-left: 40px;
+        /* Align items to the top */
+}
+
+.customize-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.customize-slider-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 10px;
+}
+.customize-slider {
+    width: 100%;
+}
+
+.customize-slider-value {
+    display: block;
+    text-align: center;
+}

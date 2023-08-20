@@ -1,0 +1,108 @@
+<!-- 
+{{ url_for('static', filename= '/icons/wing-logo.png') }}
+{{ url_for('static', filename= 'styles.css') }}
+{{url_for('static', filename='script.js')}} -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'styles.css') }}">
+  <script src="https://kit.fontawesome.com/7109ab6363.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+  <div class="container" id="app-interface">
+    <!-- <img src="{{ url_for('static', filename= '/icons/wing-logo.png') }}" alt="Logo" class="logo"> -->
+    <div id = "flexible-container" class="flexible-container">
+        <div id = "chat-title" class="chat-title">
+          <button id="expand-button" class="expand-button up">
+              <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+
+          </button>
+          <div class="text-container">
+            <span class="first-line">Hi, I'm Wing!</span>
+            <br>
+            <span class="second-line">Your AI Shopping Assistant</span>
+            <div class="secondary-container">
+              <div class="powered-by">Powered by <span class="highlight-text">Wing AI</span></div>
+              <!-- <div class="help-center"><span class="underline">Help Center</span></div> -->
+              <button id = "help-button" class="help-button">
+                <div class="icon-container">
+                  <i class="fas  fa-question-circle"></i>
+                  <span class="text">Help Center</span>
+                </div>
+              </button>
+            </div>
+          
+          </div>
+        </div>
+        <div id = "chat-container" class="chat-container">
+          <div class="chat-column">
+            <!-- <div class="chat-header">
+              <button id="collapse-button" class="collapse-button-up">
+                <span class="arrow-down"></span>
+              </button>
+            </div> -->
+        
+            <div class="chat-messages" id="chat-messages">
+              <div class="message received-message">
+                <div class="message-row">
+                  <div class="profile-picture"
+                    style="background: linear-gradient(233deg, rgb(252, 115, 156) 0%, rgb(102, 127, 241) 100%);"></div>
+                  <div class="message-text" id = "message-text">How can I help you?</div>
+                
+                  <div class="product-slider-container">
+                    <div class="product-slider">
+                      <div class="product-box" style="color:white">sdfdsfdsf</div>
+                      <div class="product-box">sdfdsfsd</div>
+                      <div class="product-box">sdfsd</div>
+                      <!-- Add more box elements as needed -->
+                      <div class="sticky-button"></div>
+                    </div>
+                  </div>
+                </div>
+
+                
+
+
+                <div class="message-separator-large"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="chat-footer">
+            <button id = "reset-button" class="reset-button">
+              <div class="icon-container">
+                <i class="fa-solid fa-arrow-rotate-left"></i>
+                <span class="text">Reset</span>
+              </div>
+            </button>
+          </div>
+        </div>
+        <div class="search-bar">
+      <div class="search-input-wrapper">
+        <input type="text" id="message-input" placeholder="Ask me for help or assistance. Let's Chat!" class="search-input">
+      </div>
+      <button type="submit" id="send-button" class="search-button">
+        <i class="fa-solid fa-arrow-up"></i>
+            </button>
+    </div>
+        
+    </div>
+
+
+
+  </div>
+  <button type="submit" id="open-button" class = "open-button"> 
+    <i class="fas fa-comments"></i>
+    <i class="fas fa-arrow-down"></i>
+
+  </button>
+
+  <script src="{{url_for('static', filename='script.js')}}"></script>
+</body>
+
+</html>
