@@ -1,6 +1,5 @@
 # TeamKart
 
-Install and run all folders
 # Conversational Fashion Outfit Generator
 
 Welcome to our Conversational Fashion Outfit Generator repository! This project is our submission for the Flipkart Grid 5.0 challenge, where we aim to revolutionize fashion discovery through the power of Generative AI and conversational interfaces.
